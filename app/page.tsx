@@ -12,6 +12,7 @@ interface PageProps {
 
 const Page = async ({ searchParams }: PageProps) => {
 
+
     const listings = await getListings(searchParams);
     const currentUser = await getCurrentUser();
 
