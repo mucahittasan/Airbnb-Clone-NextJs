@@ -14,7 +14,7 @@
 
 <h2> ✨ About The Project</h2>
 
-- In this project, I made an airbnb project with "Code with antonio". I've worked with things like how to use modals in general in my project, how to use nextjs and prisma together, how to use nextjs' nextAuth package, how to signIn with github or google, and I think it's a pretty cool project.
+- In this project, I made an airbnb project with "Code with antonio". How to use modals in general in my project, how to use nextjs and prisma together, how to use nextAuth package of nextjs, how to signIn with github or google, how to use nextjs together with typescript, how to optimize operations such as map and calendar and integrate them into the project. I've worked with things and I think it's a pretty cool project.
 
 <h2> 📌 Build With</h2>
 
